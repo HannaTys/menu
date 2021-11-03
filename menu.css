@@ -1,0 +1,158 @@
+body {
+    margin:0;
+    padding: 0;
+
+}
+
+:root{
+  
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f2f2f2;
+}
+.menu {
+    display: block;
+    width: 755;
+    height: 2663;
+
+
+}
+
+.menu h1{
+
+width: 730px;
+padding-bottom: 40px;
+background: url(img/wave.png)repeat-x bottom;;
+color:#511703;
+margin-top: 40px;
+font-size: 20px;
+
+}
+.block1{
+    width: 750px;
+     }
+
+   
+.pank{
+    background-image: url(img/eg.png);
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    }
+.egg {
+    background-image: url(img/bors.png);
+    width: 150px;
+    height: 100px;
+    margin-top: 30px;}
+.ham {
+    background-image: url(img/krab.png);
+    position: absolute;
+    width: 150px;
+    height: 120px;
+   
+    margin-top: 30px;
+   
+
+}
+.butte {
+    background: url(img/porr.png);
+    position: absolute;
+    width: 160px;
+    height: 120px;
+    margin-top: 20px;
+    margin-left: -5px;
+    
+
+
+}
+.menu h3{
+    display: inline-block;
+    color: #bc9750;
+    font-size: 18px;
+    margin-left: 175px;   
+
+}
+.name2{
+    margin-top: -100px;
+}
+.name3{
+    margin-top: 30px;
+}
+.name4 {
+    margin-top: 30px;
+}
+
+.name2 h3
+{color: #969505;
+}
+.name2 h3:hover /* при наведении будет менять на цвет общий для заголовков*/
+{color: #bc9750;
+
+}
+
+.menu h3::after{
+    
+    display: inline-block;     /*как сделать рамку что бы она менялась от размера заголовка и все было одинаково по вертикали?*/
+    content: '';
+    border-bottom: thin #a8a8a8 dotted;
+    margin-left: 10px;
+    width: 250px;
+
+ 
+      }
+.menu span {
+   margin-left: 10px;
+   color: #b7b876;  
+   font-size: 12px;
+   
+}
+
+.opis {
+    color: #7c898f;
+    margin-left: 175px;
+    font-size: 12px;
+    margin-top: 10px;
+
+}
+.block2{
+    width: 750px;
+     }
+
+
+.salmon {
+    background: url(img/bor.png);
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    margin-top: 30px;
+}
+.herring {background-image: url(img/krab.png);
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    margin-top: 30px;
+   }
+
+    
+  
+
+
+
+        
+        
+	  
+
+
+    
+    
+    
+
+   
+
+
+
+
+
+
+
+
+   
